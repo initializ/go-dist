@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	godist "github.com/paketo-buildpacks/go-dist"
+	godist "github.com/initializ/go-dist"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/cargo"
 	"github.com/paketo-buildpacks/packit/v2/chronos"
